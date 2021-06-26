@@ -4,7 +4,7 @@
 Project developed by Rocketseat
 
 
-![Logo](src/assets/images/images/logo.svg)
+![Logo](https://github.com/rodrigopfialho/nlw-letmeask/blob/main/src/assets/images/logo.svg)
 
 
 ## Screenshots
@@ -38,6 +38,8 @@ firebase rules required for the project:
 - React
 - Firebase
 - TypeScript
+
+
 
 
     
