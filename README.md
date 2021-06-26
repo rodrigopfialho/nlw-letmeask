@@ -4,7 +4,7 @@
 Project developed by Rocketseat
 
 <div align="center">
-![Logo](https://github.com/rodrigopfialho/nlw-letmeask/blob/main/src/assets/images/logo.svg)
+<img src="https://github.com/rodrigopfialho/nlw-letmeask/blob/main/src/assets/images/logo.svg">
 </div>
 
 ## Screenshots
