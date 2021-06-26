@@ -9,8 +9,8 @@ Project developed by Rocketseat
 
 ## Screenshots
 
-![App Screenshot](src/assets/images/foto1.png)
-![App Screenshot](src/assets/images/foto2.png)
+![App Screenshot](https://github.com/rodrigopfialho/nlw-letmeask/blob/main/src/assets/images/foto1.png)
+![App Screenshot](https://github.com/rodrigopfialho/nlw-letmeask/blob/main/src/assets/images/foto2.png)
 
 
 ## Installation 
