@@ -4,13 +4,13 @@
 Project developed by Rocketseat
 
 
-![Logo](/assets/images/images/logo.svg)
+![Logo](src/assets/images/images/logo.svg)
 
 
 ## Screenshots
 
-![App Screenshot](/aasets/images/foto1.png)
-![App Screenshot](/aasets/images/foto2.png)
+![App Screenshot](src/assets/images/foto1.png)
+![App Screenshot](src/assets/images/foto2.png)
 
 
 ## Installation 
